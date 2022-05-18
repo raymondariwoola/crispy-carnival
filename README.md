@@ -1,2 +1,2 @@
 # crispy-carnival
-Building RESTful APIs
+Building crispy RESTful API
